@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Code Wars</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Powershell](https://github.com/Kobecgraham/Kobe-Graham/blob/CodeWars/CodeWars%20PowerShell)
 - <b>Hack the Box (HTB)</b>
   - [Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Hack%20The%20Box) 
 - <b>PowerShell</b>
