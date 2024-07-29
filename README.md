@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kobe! <br/><a <a href="https://www.linkedin.com/in/kobe-graham-58653a174">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Code Wars</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
