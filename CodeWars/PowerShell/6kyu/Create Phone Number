@@ -1,4 +1,6 @@
-# CodeWars - 6kyu - Create Phone Number
+# Data Structures and Algorithms II – C950
+
+## WGUPS Routing Program
 
 <p align="center">
 <img src="https://imgur.com/a/RpTjQ5U" height="80%" width="80%" alt="Frankie Grande, Ariana Grande et al. are posing for a picture"/>
@@ -7,6 +9,7 @@
 ### [YouTube Explanation with Demonstration](https://google.com)
 
 This project specified by CodeWars wants you to write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+
 ##Function
 
 This defines a new function named New-PhoneNumber that takes one parameter, $numbers, which is expected to be an array of integers.
@@ -14,7 +17,9 @@ This defines a new function named New-PhoneNumber that takes one parameter, $num
 ```commandline
 function New-PhoneNumber([int[]]$numbers)
 ```
+
 ##Input Validation (Range Check)
+
 This checks if the length of the $numbers array is not equal to 10. If the length is not 10, the function throws an error with the message "Array must contain exactly 10 integers." This ensures that the function only processes arrays that have exactly 10 integers.
 
 ```commandline
@@ -29,6 +34,7 @@ This loop iterates through each element ($number) in the $numbers array. For eac
 foreach ($number in $numbers) { if ($number -lt 0 -or $number -gt 9) { throw "Array must contain integers between 0 and 9." } }
 ```
 ##Formatting the Phone Number
+
 This line creates a formatted string using the -f format operator. The format string ({0}{1}{2}) {3}{4}{5}-{6}{7}{8}{9} specifies the desired phone number format, where {0} to {9} are placeholders for the corresponding elements in the $numbers array. The -f operator replaces each placeholder with the respective element from the $numbers array to create the final formatted phone number string.
 
 ```commandline
@@ -41,7 +47,7 @@ This line returns the formatted phone number string from the function.
 return $phoneNumber
 ```
 
-Example Usage:
+##Example Usage:
 
 This calls the New-PhoneNumber function with an array of 10 integers as the argument.
 
@@ -80,5 +86,4 @@ function New-PhoneNumber([int[]]$numbers)
 # Example usage
 $formattedPhoneNumber = New-PhoneNumber -numbers @(1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
 Write-Output $formattedPhoneNumber  # Output: (123) 456-7890
-
 ```
