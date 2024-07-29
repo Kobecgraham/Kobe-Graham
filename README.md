@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Code Wars</b>
-  - [Praciting Powershell](https://github.com/Kobecgraham/Kobe-Graham/blob/CodeWars/CodeWars%20PowerShell)
+  - [Praciting Powershell](https://github.com/Kobecgraham/Kobe-Graham/blob/main/CodeWars/PowerShell/6kyu/Create%20Phone%20Number.md)
 - <b>Hack the Box (HTB)</b>
   - [Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Hack%20The%20Box) 
 - <b>PowerShell</b>
