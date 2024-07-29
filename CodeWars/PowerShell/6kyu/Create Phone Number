@@ -1,7 +1,5 @@
 # CodeWars - 6kyu - Create Phone Number
 
-## WGUPS Routing Program
-
 <p align="center">
 <img src="https://imgur.com/a/RpTjQ5U" height="80%" width="80%" alt="Frankie Grande, Ariana Grande et al. are posing for a picture"/>
 </p>
@@ -56,6 +54,7 @@ This prints the returned phone number string to the output, which will be (123) 
 Write-Output $formattedPhoneNumber
 ```
 ##Full Code
+
 ```commandline
 function New-PhoneNumber([int[]]$numbers)
 {
