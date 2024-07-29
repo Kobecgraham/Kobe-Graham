@@ -5,7 +5,7 @@
 - <b>Code Wars</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Hack the Box (HTB)</b>
-  - [Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Hack%20The%20Box) <b><i>(Potentially NSFW)</b></i>
+  - [Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Hack%20The%20Box) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular YouTube Videos</h2> <b><i>(Potentially NSFW)</b></i>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
