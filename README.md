@@ -23,7 +23,7 @@
 
 [<img align="left" alt="KobeGraham | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="KobeGraham | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KobeGraham | LinkedIn" width="40px" src="https://www.linkedin.com/posts/kobe-graham-58653a174_balikatan24-afp-opfor-activity-7193844061596708864-_Yqs?utm_source=share&utm_medium=member_desktop" />][linkedin]
+[<img align="left" alt="KobeGraham | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KobeGraham | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://www.linkedin.com/in/kobe-graham-58653a174/
