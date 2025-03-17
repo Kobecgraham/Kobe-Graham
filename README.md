@@ -11,7 +11,7 @@
 - <b>MDE/Sentinal Quires</b>
   - [MDE/Sentinel Quires](https://github.com/Kobecgraham/Kobe-Graham/blob/main/MDE%20%26%20Sentinel/Quires)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Python Scripts Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Python/Scripts)
 
 <h2>📺 Popular YouTube Videos</h2> <b><i>(Potentially NSFW)</b></i>
 
