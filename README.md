@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>MDE/Sentinal Quires</b>
-  - [MDE/Sentinel Quires)]([https://github.com/joshmadakor1/EncrypterPOC)](https://github.com/Kobecgraham/Kobe-Graham/blob/main/MDE%20%26%20Sentinel/Quires)
+  - [MDE/Sentinel Quires]([https://github.com/joshmadakor1/EncrypterPOC)](https://github.com/Kobecgraham/Kobe-Graham/blob/main/MDE%20%26%20Sentinel/Quires)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
