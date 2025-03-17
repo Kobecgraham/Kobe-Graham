@@ -7,7 +7,7 @@
 - <b>Hack the Box (HTB)</b>
   - [Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Hack%20The%20Box) 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [VirusTotal Scripts (IP & Hash)](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Powershell/Virus%20Total%20Scripts)
 - <b>MDE/Sentinal Quires</b>
   - [MDE/Sentinel Quires](https://github.com/Kobecgraham/Kobe-Graham/blob/main/MDE%20%26%20Sentinel/Quires)
 - <b>Python</b>
