@@ -28,8 +28,8 @@
 
 [twitter]: https://x.com/PulseBeaco54498
 [youtube]: https://www.youtube.com/@BeaconPulse
-[instagram]: https://www.linkedin.com/in/kobe-graham-58653a174/
-[linkedin]: https://www.instagram.com/beaconpulseltd/
+[instagram]: https://www.instagram.com/beaconpulseltd/
+[linkedin]: https://www.linkedin.com/in/kobe-graham-58653a174/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
