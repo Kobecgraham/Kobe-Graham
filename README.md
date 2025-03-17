@@ -17,7 +17,7 @@
 
 <h2>📺 Popular YouTube Videos</h2> <b><i>(Potentially NSFW)</b></i>
 
-- [How to Install Kali Linux](https://www.youtube.com/watch?v=WNYYSuySlc8&t=2s)
+- [How to Install Kali Linux](https://www.youtube.com/watch?v=0aKxzPidhKI)
 
 <h2> 🤳 Connect with me:</h2>
 
