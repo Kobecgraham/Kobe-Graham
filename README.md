@@ -7,7 +7,7 @@
 - <b>Hack the Box (HTB)</b>
   - [Place Holder](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Hack%20The%20Box) 
 - <b>PowerShell</b>
-  - [VirusTotal Scripts (IP & Hash)](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Powershell/Virus%20Total%20Scripts)
+  - [VirusTotal Scripts (IP, Hash, & URL)](https://github.com/Kobecgraham/Kobe-Graham/blob/main/Powershell/Virus%20Total%20Scripts)
 - <b>MDE/Sentinal Quires</b>
   - [MDE/Sentinel Quires](https://github.com/Kobecgraham/Kobe-Graham/blob/main/MDE%20%26%20Sentinel/Quires)
 - <b>Python</b>
