@@ -4,7 +4,7 @@
 ### [YouTube Explanation with Demonstration (Pending)](https://www.youtube.com/@BeaconPulse)
 
 ## Overview  
-This Microsoft Sentinel KQL query identifies workstations that are publicly accessible. It extracts their public IP addresses, maps them to their respective ASNs using an external dataset, and filters out specific network ranges based on organizational needs.  
+This Microsoft Sentinel KQL query identifies workstations that are publicly accessible, not flagged as public-facing by Microsoft Defender for Endpoint (MDE)**. It extracts their public IP addresses, maps them to their respective ASNs using an external dataset, and filters out specific network ranges based on organizational needs.
 
 The query further analyzes network activity for these public-facing devices by summarizing various event types, such as:  
 - **Successful and failed connections**  
